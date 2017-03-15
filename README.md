@@ -1,7 +1,10 @@
 # facepalm
 
-Generate smiley confusoin matrices. Under development!
+Generate smiley confusoin matrices. Under development! The inspiration came, of course from a google chat with @tabakgil
 
+![img/inspiration.png](img/inspiration.png)
+
+We must make this happen!
 
 ## Installation (current)
 
